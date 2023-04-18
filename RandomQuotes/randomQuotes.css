@@ -1,0 +1,13 @@
+  .wrap
+    {
+      
+      font-family: sans-serif;
+      padding-top: 15%;
+      padding-bottom: 25%;
+      text-align:center;
+    }
+    .innerwrap
+    {
+        width:50px;
+        height: fit-content;
+    }
